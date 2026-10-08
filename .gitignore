@@ -1,0 +1,8 @@
+/cmake-build-release/
+/cmake-build-debug/
+/vcpkg_installed/
+/.idea
+/.vscode/
+/Testing/
+/CMakePresets.json
+/out/
